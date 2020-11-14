@@ -1,26 +1,26 @@
 @font-face {
   font-family: 'Futura PT';
   font-weight: 400;
-  src: url(FuturaPT-Book.eot),
-    url(FuturaPT-Book.eot?#iefix) format('embedded-opentype'),
-    url(FuturaPT-Book.woff) format('woff'),
-    url(FuturaPT-Book.ttf) format('ttf');
+  src: url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Book.eot'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Book.eot?#iefix') format('embedded-opentype'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Book.woff') format('woff'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Book.ttf') format('ttf');
 }
 
 @font-face {
   font-family: 'Futura PT';
   font-weight: 500;
-  src: url(FuturaPT-Medium.eot),
-    url(FuturaPT-Medium.eot?#iefix) format('embedded-opentype'),
-    url(FuturaPT-Medium.woff) format('woff'),
-    url(FuturaPT-Medium.ttf) format('ttf');
+  src: url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Medium.eot'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Medium.eot?#iefix') format('embedded-opentype'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Medium.woff') format('woff'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Medium.ttf') format('ttf');
 }
 
 @font-face {
   font-family: 'Futura PT';
   font-weight: 700;
-  src: url(FuturaPT-Heavy.eot),
-    url(FuturaPT-Heavy.eot?#iefix) format('embedded-opentype'),
-    url(FuturaPT-Heavy.woff) format('woff'),
-    url(FuturaPT-Heavy.ttf) format('ttf');
+  src: url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Heavy.eot'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Heavy.woff') format('woff'),
+    url('https://github.com/Green-Gables-Studio/fonts/raw/main/futura/FuturaPT-Heavy.ttf') format('ttf');
 }
